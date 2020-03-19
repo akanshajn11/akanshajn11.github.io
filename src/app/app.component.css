@@ -1,0 +1,40 @@
+.detail {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.greeting {
+    font-family: Montserrat;
+    font-size: 1.2rem;
+    font-style: normal;
+    color: #7bffeb;
+}
+
+.name {
+    font-family: Montserrat;
+    font-size: 4rem;
+    font-weight: 500;
+    color: #e6e6e6;
+}
+
+.description {
+    font-family: Montserrat;
+    font-size: 4rem;
+    font-weight: 500;
+    color: #868686;
+}
+
+.info {    
+    font-family: Montserrat;  
+    font-size: 1rem;  
+    font-weight: 500;
+    color: #e6e6e6;
+}
+
+
+.get-in-touch {
+    margin-top: 1.2rem;
+}
+
